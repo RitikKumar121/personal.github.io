@@ -128,8 +128,3 @@ p {
     font-size: 55%;
   }
 }
-@media only screen and (min-width: 320px) and (max-width: 425px) {
-  #x {
-    font-size: 1.8em;
-  }
-}
